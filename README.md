@@ -185,19 +185,3 @@ The pentest followed a structured 4-phase lifecycle:
 
 > _Project part of the Cybersecurity Skill Development Program by SURE Trust to empower rural youth with practical industry knowledge._
 
-uration reviews.
-- Expand testing to cloud infrastructure and APIs.
-- Introduce automation for continuous security assessment.
-
----
-
-## References
-
-- [OWASP Security Resources](https://owasp.org)
-- [NVD Vulnerability Database](https://nvd.nist.gov)
-- [SANS Institute Guidelines](https://isc.sans.edu)
-- [Exim, Apache, OpenSSH Security Advisories](https://cve.mitre.org)
-
----
-
-> _Project part of the Cybersecurity Skill Development Program by SURE Trust to empower rural youth with practical industry knowledge._
